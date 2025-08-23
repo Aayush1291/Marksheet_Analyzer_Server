@@ -25,7 +25,7 @@ SECRET_KEY = 'akjhza8wk#%mmpcl*dd3n-ovm!ntc*83+pnzhrb-)1!zw!#h$#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["marksheet-analyzer-server.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
