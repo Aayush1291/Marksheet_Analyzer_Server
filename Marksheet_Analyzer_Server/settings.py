@@ -57,6 +57,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://marksheet-analyzer-portal.vercel.app",
     "http://127.0.0.1:3000",
     "http://localhost:5173",
+    "https://marksheet-analyzer-server.onrender.com"
 ]
 
 ROOT_URLCONF = 'Marksheet_Analyzer_Server.urls'
