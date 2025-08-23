@@ -1,0 +1,8242 @@
+[
+  {
+    "seat_no": "7091039",
+    "name": "BIDAVE PARTH ANIL",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091040",
+    "name": "DIGHE ANISH MUKESH",
+    "result": "Successful",
+    "sgpi": "5.28",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091041",
+    "name": "GANGURDE PARTH VIJAY",
+    "result": "Successful",
+    "sgpi": "5.50",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091042",
+    "name": "KHADTAR MANISH NATHURAM",
+    "result": "Successful",
+    "sgpi": "5.50",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091043",
+    "name": "PARAS NARENDRA MAHAJAN",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091044",
+    "name": "/ MORE SHREYA ASHOK",
+    "result": "Successful",
+    "sgpi": "5.75",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091045",
+    "name": "NAIR KARTIK SREEKUMAR",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 15,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091046",
+    "name": "SARVESH ARVIND NAWGHARE",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 10,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091047",
+    "name": "PAWAR PARTH NITIN",
+    "result": "Successful",
+    "sgpi": "5.53",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091048",
+    "name": "POOJARY CHITRESH ANAND",
+    "result": "Successful",
+    "sgpi": "5.72",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091049",
+    "name": "YASH KISHOR SHINDE",
+    "result": "Successful",
+    "sgpi": "7.06",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 24,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091050",
+    "name": "SINGH ADARSH RANAPRATAP",
+    "result": "Successful",
+    "sgpi": "5.67",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091051",
+    "name": "TIDKE SIDDHANT VINOD",
+    "result": "Successful",
+    "sgpi": "5.67",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091052",
+    "name": "/ YADAV KONIKA KRISHNAKUMAR",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091053",
+    "name": "YADAV ROHIT SHIVKUMAR",
+    "result": "Successful",
+    "sgpi": "6.22",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 52,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 52,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091054",
+    "name": "BHATE PRANAV SACHIN",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 15,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091055",
+    "name": "BORUDE SHUBHAM DAGDU",
+    "result": "Successful",
+    "sgpi": "6.19",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 43,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 43,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091056",
+    "name": "CHOURASIA SONUKUMAR RAMANAND",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091057",
+    "name": "JADHAV SAIRAJ RAJENDRA",
+    "result": "Successful",
+    "sgpi": "5.81",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 59,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 59,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091058",
+    "name": "JAISWAL UJJAWAL AMIT",
+    "result": "Successful",
+    "sgpi": "5.58",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091059",
+    "name": "/ KARANDE SHREYA RAVINDRA",
+    "result": "Successful",
+    "sgpi": "5.56",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091060",
+    "name": "/ MAHALE POOJA GOVIND",
+    "result": "Successful",
+    "sgpi": "6.75",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 51,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 51,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091061",
+    "name": "NIMUNKAR OM GURUPRASAD",
+    "result": "Successful",
+    "sgpi": "5.89",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091062",
+    "name": "PANAD PRAFUL SANTOSH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 49,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 49,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091063",
+    "name": "AMIT DNYANESHWAR PATIL",
+    "result": "Successful",
+    "sgpi": "5.17",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091064",
+    "name": "PHILSE NAYAN ANIL",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091065",
+    "name": "PRADHAN SUDHANSHU SUSHANT",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091066",
+    "name": "/ RATHOD SANEL SANTOSH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 43,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 43,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091067",
+    "name": "SAWANT DHANANJAY DIWAKAR",
+    "result": "Successful",
+    "sgpi": "5.67",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 55,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 55,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091068",
+    "name": "SINGH SARVESH SUBHASHCHANDRA",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091070",
+    "name": "MANAV AMBAWALE",
+    "result": "Successful",
+    "sgpi": "6.14",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 54,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 54,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091071",
+    "name": "BABAR ANURAG SANTOSH",
+    "result": "Successful",
+    "sgpi": "5.72",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 43,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 43,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091072",
+    "name": "GARJE ADITYA SATISH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091073",
+    "name": "GHADSHI CHINMAY SANJAY",
+    "result": "Successful",
+    "sgpi": "6.06",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 55,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 55,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091074",
+    "name": "GOME RUSHIKESH BABURAO",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091075",
+    "name": "/ ILLA HARSHIKA RAVI DURGA",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091076",
+    "name": "/ JADHAV KOMAL ANANDRAO",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 7,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 12,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 6,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 7,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 12,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 6,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091077",
+    "name": "KADAM SHRIRAM SAHEBRAO",
+    "result": "Successful",
+    "sgpi": "6.64",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091078",
+    "name": "YASH NAGESH KADAM",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091079",
+    "name": "KADU HARSH KIRAN",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091080",
+    "name": "/ KAMBLE MADHURA BAPUSAHEB",
+    "result": "Successful",
+    "sgpi": "5.42",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 16,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091081",
+    "name": "RITESH MAHENDRA NIKALE",
+    "result": "Successful",
+    "sgpi": "5.97",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091082",
+    "name": "/ RANKAR SOUNDARYA EKNATH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 27,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091083",
+    "name": "AMOL JIVAN RATHOD",
+    "result": "Successful",
+    "sgpi": "5.50",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091084",
+    "name": "SHINDE VIJAY SHIVAJI",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091085",
+    "name": "SANKET SUNDAR TAWARE",
+    "result": "Successful",
+    "sgpi": "5.39",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091086",
+    "name": "/ NIYATI SUDHAKAR WAGH",
+    "result": "Successful",
+    "sgpi": "6.14",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091087",
+    "name": "KHAN ALFAIZ JUNAID",
+    "result": "Successful",
+    "sgpi": "5.67",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091088",
+    "name": "ANSARI MHD AYAAN ANEES AHD",
+    "result": "Successful",
+    "sgpi": "5.56",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091089",
+    "name": "ALI KHAN AYYUB KHAN",
+    "result": "Successful",
+    "sgpi": "6.14",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091090",
+    "name": "BHATKAR SHAYAN MOHD RAFIQ",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091091",
+    "name": "DESAI ZISHAN JAMIL",
+    "result": "Successful",
+    "sgpi": "5.97",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091092",
+    "name": "/ HASSAN MUSKAN MUBASHSHIR",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091093",
+    "name": "/ KADVEKAR SAFA HAIDAR",
+    "result": "Successful",
+    "sgpi": "6.44",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091094",
+    "name": "/ KAZI BUSHRA ASHFAQUE",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091095",
+    "name": "KHAN HAFEEZ SHABBIR",
+    "result": "Successful",
+    "sgpi": "5.47",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 48,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 48,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091097",
+    "name": "MAHADIK ARQAM JUNED",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091098",
+    "name": "MIRZA DANIYAL BAIG MIRZA",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091099",
+    "name": "/ SAHIBOLE FATIMA ASHFAQUE",
+    "result": "Successful",
+    "sgpi": "6.03",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091100",
+    "name": "/ SHAIKH AYESHA PARVEZ",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 48,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 48,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091102",
+    "name": "SHAIKH UMAR ABDUL NAZIR",
+    "result": "Successful",
+    "sgpi": "5.47",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091103",
+    "name": "BAGUL KARAN SHIVAJI",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091104",
+    "name": "BHAGAT DURVESH DINESH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 15,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091105",
+    "name": "BHOIR AARYAN JEETENDRA",
+    "result": "Successful",
+    "sgpi": "5.25",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091106",
+    "name": "CHAMAKLE VARUN NITIN",
+    "result": "Successful",
+    "sgpi": "6.03",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091107",
+    "name": "CHAUDHARI ANIKET YASHWANT",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 8,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 8,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091108",
+    "name": "CHAVAN DIPTESH DILIP",
+    "result": "Successful",
+    "sgpi": "5.67",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091109",
+    "name": "CHOUDHARI VAIBHAV SUHAS",
+    "result": "Successful",
+    "sgpi": "5.89",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091110",
+    "name": "/ GAVAI TRUPTI BHARAT",
+    "result": "Successful",
+    "sgpi": "5.94",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091111",
+    "name": "INGALE TEJAS SHAMRAO",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 25,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 25,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 11,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091112",
+    "name": "KAMBLE ADITYA SANTOSH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 10,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091113",
+    "name": "KAMBLI KEWAL HITESH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 25,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 25,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 13,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091114",
+    "name": "/ KANSE SAKSHI DEEPAK",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091115",
+    "name": "KHEMKA GARV NARENDRA",
+    "result": "Successful",
+    "sgpi": "6.11",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091116",
+    "name": "MANDAVKAR ATHARVA SANJAY",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091117",
+    "name": "MAURYA PRIYANSHU MANGALA",
+    "result": "Successful",
+    "sgpi": "5.56",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091118",
+    "name": "MESHRAM SAHIL TASVIR",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091119",
+    "name": "MHATRE TAMISH MILIND",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 6,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 6,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091120",
+    "name": "/ MOHAPATRA CHINMAYEE RANJAN",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 26,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 26,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091121",
+    "name": "PATIL AKSHAY MOHAN",
+    "result": "Successful",
+    "sgpi": "5.56",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 51,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 51,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091122",
+    "name": "PATIL KEYUR NARENDRA",
+    "result": "Successful",
+    "sgpi": "5.53",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091123",
+    "name": "PATIL PIYUSH RAJU",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 41,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091124",
+    "name": "/ PATIL TEJAL CHANDRAKANT",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091125",
+    "name": "RAHATWAL SAHIL DHARMESH",
+    "result": "Successful",
+    "sgpi": "5.69",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 48,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 48,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091126",
+    "name": "RAJPUT JAYENDRA DEVENDRA",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091128",
+    "name": "SAKPAL HARSHWARDHAN RAJENDRA",
+    "result": "Successful",
+    "sgpi": "5.50",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091130",
+    "name": "SAVE SIDDHAY BHARAT",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 25,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 25,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 16,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091131",
+    "name": "SONI RUDRA MAHESHKUMAR",
+    "result": "Successful",
+    "sgpi": "6.39",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 37,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091132",
+    "name": "VAISHNAV SAGAR GANPATDAS",
+    "result": "Successful",
+    "sgpi": "6.39",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 45,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 22,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091133",
+    "name": "VALKUNDE SIDDHARTH DILIP",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091134",
+    "name": "DHIRAJ PRAVIN BHERE",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 18,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091135",
+    "name": "SAHIL PRALHAD BHOI",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 28,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 28,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091136",
+    "name": "/ GAWDE AAKANKSHA SUDHAKAR",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 23,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091137",
+    "name": "PARVE VIVEK VIJAY",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 24,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 50,
+        "grade": "D"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 23,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 24,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091138",
+    "name": "/ PRAPTI HEMANT TARMALE",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091139",
+    "name": "CHAUHAN SURAJ PARASNATH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 13,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091140",
+    "name": "GUPTA ANIKET AJAY",
+    "result": "Successful",
+    "sgpi": "5.67",
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 31,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 21,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091141",
+    "name": "KALUGADE ANIKET SHIVAJI",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 46,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 13,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 13,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091142",
+    "name": "MALUSARE TANMAY RAJIV",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 22,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 14,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 17,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091143",
+    "name": "NAHAR PRAVESH MAHAVEER",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 12,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 47,
+        "grade": "E"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 12,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 38,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 10,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 32,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 10,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091144",
+    "name": "PANDEY AALOK RAKESH",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 40,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 21,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 36,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 30,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 19,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091145",
+    "name": "RATNAPARKHE SHUBHAM RAVIKANT",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 42,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 18,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 33,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 17,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 35,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 20,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "seat_no": "7091146",
+    "name": "MOHAMMED MAARIJ MOHAMMED",
+    "result": "Unsuccessful",
+    "sgpi": null,
+    "papers": [
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58651",
+        "paper_name": "Engineering Mathematics-I",
+        "total": 44,
+        "grade": "P"
+      },
+      {
+        "paper_code": "FEC101",
+        "paper_name": "Engineering Mathematics-I Term Work",
+        "total": 15,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58652",
+        "paper_name": "Engineering Physics-I",
+        "total": 34,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL101",
+        "paper_name": "Engineering Physics-I (TW)",
+        "total": 11,
+        "grade": "F"
+      },
+      {
+        "paper_code": "58655",
+        "paper_name": "Engineering Chemistry-I",
+        "total": 39,
+        "grade": "F"
+      },
+      {
+        "paper_code": "FEL102",
+        "paper_name": "Engineering Chemistry-I (TW)",
+        "total": 11,
+        "grade": "F"
+      }
+    ]
+  }
+]
