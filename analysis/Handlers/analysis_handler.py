@@ -106,58 +106,62 @@ def parse_student_block(block, grading_rules, paper_names):
         "papers": papers
     }
 
-# --- main handler ---
 def extract_result(file=None):
-    try:
-        # Save uploaded file temporarily
-        upload_dir = os.path.join(settings.MEDIA_ROOT, "uploads")
-        os.makedirs(upload_dir, exist_ok=True)
+    # The directory where files will be saved, inside your MEDIA_ROOT
+    upload_dir_name = "uploads"
+    upload_dir = os.path.join(settings.MEDIA_ROOT, upload_dir_name)
+    os.makedirs(upload_dir, exist_ok=True)
+    
+    # Generate a unique filename
+    file_id = uuid4()
+    
+    # Save the uploaded PDF
+    pdf_path = os.path.join(upload_dir, f"{file_id}.pdf")
+    with open(pdf_path, "wb") as f:
+        for chunk in file.chunks():
+            f.write(chunk)
 
-        pdf_path = os.path.join(upload_dir, f"{uuid4()}.pdf")
-        with open(pdf_path, "wb") as f:
-            for chunk in file.chunks():
-                f.write(chunk)
+    # Define filesystem paths for output files
+    json_path = os.path.join(upload_dir, f"{file_id}.json")
+    excel_path = os.path.join(upload_dir, f"{file_id}.xlsx")
+    
+    # Extract results
+    with fitz.open(pdf_path) as doc:
+        paper_names = extract_paper_mapping(doc)
+        full_text = "\n".join(page.get_text() for page in doc)
+        grading_rules = parse_grading_system(full_text)
 
-        # Output paths
-        json_path = pdf_path.replace(".pdf", ".json")
-        excel_path = pdf_path.replace(".pdf", ".xlsx")
+    blocks = re.split(r"(?=\n\s*\d{7}\s)", full_text)
+    results, rows = [], []
 
-        # Extract results
-        with fitz.open(pdf_path) as doc:
-            paper_names = extract_paper_mapping(doc)
-            full_text = "\n".join(page.get_text() for page in doc)
-            grading_rules = parse_grading_system(full_text)
+    for block in blocks:
+        student_data = parse_student_block(block, grading_rules, paper_names)
+        if student_data:
+            results.append(student_data)
+            
+            row = {
+                "Seat No": student_data["seat_no"],
+                "Name": student_data["name"],
+                "Result": student_data["result"],
+                "SGPI": student_data["sgpi"]
+            }
+            for i, paper in enumerate(student_data["papers"], start=1):
+                row[f"Paper {i} Code"] = paper["paper_code"]
+                row[f"Paper {i} Name"] = paper["paper_name"]
+                row[f"Paper {i} Marks"] = paper["total"]
+                row[f"Paper {i} Grade"] = paper["grade"]
+            rows.append(row)
 
-        blocks = re.split(r"(?=\n\s*\d{7}\s)", full_text)
-        results, rows = [], []
+    # Save JSON
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
 
-        for block in blocks:
-            student_data = parse_student_block(block, grading_rules, paper_names)
-            if student_data:
-                results.append(student_data)
+    # Save Excel
+    df = pd.DataFrame(rows)
+    df.to_excel(excel_path, index=False)
 
-                row = {
-                    "Seat No": student_data["seat_no"],
-                    "Name": student_data["name"],
-                    "Result": student_data["result"],
-                    "SGPI": student_data["sgpi"]
-                }
-                for i, paper in enumerate(student_data["papers"], start=1):
-                    row[f"Paper {i} Code"] = paper["paper_code"]
-                    row[f"Paper {i} Name"] = paper["paper_name"]
-                    row[f"Paper {i} Marks"] = paper["total"]
-                    row[f"Paper {i} Grade"] = paper["grade"]
-                rows.append(row)
+    json_url = os.path.join(settings.MEDIA_URL, upload_dir_name, f"{file_id}.json").replace("\\", "/")
+    excel_url = os.path.join(settings.MEDIA_URL, upload_dir_name, f"{file_id}.xlsx").replace("\\", "/")
 
-        # Save JSON
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
+    return results, json_url, excel_url
 
-        # Save Excel
-        df = pd.DataFrame(rows)
-        df.to_excel(excel_path, index=False)
-
-        return results, json_path, excel_path
-
-    except Exception as e:
-        return {"error": str(e)}, 500

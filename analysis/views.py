@@ -7,6 +7,11 @@ class StatusCheck(APIView):
     def post(self, request):
         return Response({"success": True, "message": "Students System Working."}, status=status.HTTP_200_OK)
 
+# In your views.py file
+import logging
+
+# It's good practice to log errors for debugging
+logger = logging.getLogger(__name__)
 
 class AnalysisView(APIView):
     def post(self, request):
@@ -21,10 +26,18 @@ class AnalysisView(APIView):
             return Response({
                 "success": True,
                 "message": "Analysis completed.",
-                "results": results,             # return parsed results directly
-                "json_file": json_path,         # saved JSON path
-                "excel_file": excel_path        # saved Excel path
+                "results": results,
+                "json_file": json_path,
+                "excel_file": excel_path
             }, status=status.HTTP_200_OK)
 
         except Exception as e:
-            return Response({"success": False, "message": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+            # Log the full traceback for your own debugging
+            logger.error(f"Error during PDF analysis: {e}", exc_info=True)
+            
+            # Return a clean JSON error response to the client
+            return Response({
+                "success": False,
+                "message": f"An error occurred during analysis: {str(e)}"
+            }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
