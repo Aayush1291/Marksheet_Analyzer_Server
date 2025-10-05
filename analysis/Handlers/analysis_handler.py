@@ -5,6 +5,7 @@ import os
 import pandas as pd
 from django.conf import settings
 from uuid import uuid4
+import PyPDF2
 
 # --- your parsing helpers (same as before) ---
 def parse_grading_system(text):
@@ -165,3 +166,190 @@ def extract_result(file=None):
 
     return results, json_url, excel_url
 
+def analyze_pdf_percentage(file):
+    """
+    Main function for API.
+    Accepts Django UploadedFile.
+    Returns results, json_url, excel_url.
+    """
+    # Step 1: Save uploaded PDF
+    upload_dir_name = "uploads"
+    upload_dir = os.path.join(settings.MEDIA_ROOT, upload_dir_name)
+    os.makedirs(upload_dir, exist_ok=True)
+
+    file_id = uuid4()
+    pdf_path = os.path.join(upload_dir, f"{file_id}.pdf")
+    with open(pdf_path, "wb") as f:
+        for chunk in file.chunks():
+            f.write(chunk)
+
+    # Step 2: Extract text
+    extracted_text = extract_text_from_pdf(pdf_path)
+    if "error" in extracted_text.lower():
+        raise ValueError(f"PDF extraction error: {extracted_text}")
+
+    # Step 3: Parse subjects
+    total_marks_map = parse_subject_structure(extracted_text)
+    if not total_marks_map:
+        raise ValueError("Could not parse subjects from PDF.")
+
+    num_subjects = len(total_marks_map)
+
+    # Step 4: Parse students
+    students = parse_students(extracted_text, num_subjects)
+    if not students:
+        raise ValueError("No student data found in PDF.")
+
+    # Step 5: Calculate percentages
+    results, _ = calculate_percentages(students, total_marks_map)
+
+    # Step 6: Save Excel
+    excel_path = os.path.join(upload_dir, f"{file_id}.xlsx")
+    df = pd.DataFrame(results)
+    try:
+        with pd.ExcelWriter(excel_path, engine='openpyxl') as writer:
+            df.to_excel(writer, sheet_name='Results', index=False)
+            subject_df = pd.DataFrame([
+                {'Subject Code': code, 'Maximum Marks': marks} 
+                for code, marks in total_marks_map.items()
+            ])
+            subject_df.to_excel(writer, sheet_name='Subject Structure', index=False)
+    except Exception as e:
+        raise ValueError(f"Excel generation error: {e}")
+
+    # Step 7: Save JSON
+    json_path = os.path.join(upload_dir, f"{file_id}.json")
+    with open(json_path, "w", encoding="utf-8") as jf:
+        json.dump(results, jf, indent=2)
+
+    # Step 8: Return URLs
+    json_url = os.path.join(settings.MEDIA_URL, upload_dir_name, f"{file_id}.json").replace("\\", "/")
+    excel_url = os.path.join(settings.MEDIA_URL, upload_dir_name, f"{file_id}.xlsx").replace("\\", "/")
+
+    return results, json_url, excel_url
+
+def extract_text_from_pdf(pdf_path):
+    """Extract text from PDF file"""
+    text = ""
+    try:
+        with open(pdf_path, 'rb') as pdf_file:
+            pdf_reader = PyPDF2.PdfReader(pdf_file)
+            num_pages = len(pdf_reader.pages)
+            
+            for page_num in range(num_pages):
+                page = pdf_reader.pages[page_num]
+                text += page.extract_text() or ""
+                   
+    except Exception as e:
+        return f"An error occurred: {e}"
+       
+    return text
+
+def parse_subject_structure(text):
+    """UNIVERSAL: Works for SEM1 (58651, FEC101) and SEM2 (FEC201, FEC201 TW)"""
+    university_pattern = r'University\s+of\s+Mumbai'
+    match = re.search(university_pattern, text, re.IGNORECASE)
+    
+    if not match:
+        for alt in [r'OFFICE\s+REGISTER', r'CBCS.*Engineering']:
+            alt_match = re.search(alt, text, re.IGNORECASE)
+            if alt_match:
+                start_pos = alt_match.start()
+                break
+        else:
+            return {}
+    else:
+        start_pos = match.start()
+    
+    subject_section = text[start_pos:start_pos + 5000]
+    
+    total_marks_map = {}
+    subject_order = []
+    
+    pattern = r'([A-Z0-9]{5,6}(?:\s+[A-Z]{2,3})?)(?:\s*[‐\-–]\s*)([^:]+?):\s+.*?(\d{2,3})/0'
+    matches = re.findall(pattern, subject_section, re.MULTILINE)
+    
+    
+    for subject_code, subject_name, max_marks in matches:
+        subject_code = subject_code.strip()
+        if subject_code not in total_marks_map:
+            total_marks_map[subject_code] = int(max_marks)
+            subject_order.append(subject_code)
+    
+    return {code: total_marks_map[code] for code in subject_order}
+
+def extract_marks_from_cell(cell):
+    """Extract marks: handles AA, --, 7F, 10E, 23F"""
+    cell = cell.strip()
+    
+    match1 = re.match(r'^([A-Z0-9]+)\s+([A-Z0-9]+)\s+([A-Z0-9]+)$', cell)
+    if match1:
+        val3 = match1.group(3)
+        num = re.search(r'(\d+)', val3)
+        return int(num.group(1)) if num else 0
+    
+    match2 = re.match(r'^[‐\-–]+\s+([A-Z0-9]+)\s+([A-Z0-9]+)$', cell)
+    if match2:
+        val2 = match2.group(2)
+        num = re.search(r'(\d+)', val2)
+        return int(num.group(1)) if num else 0
+    
+    return None
+
+def parse_students(text, num_subjects):
+    """Parse students"""
+    students = []
+    
+    match = re.search(r'University\s+of\s+Mumbai', text, re.IGNORECASE)
+    if match:
+        text = text[match.start():]
+    
+    lines = text.split('\n')
+    
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        student_match = re.search(r'(\d{7})\s+(/\s+)?([A-Z][A-Z\s]+?)\s+\|', line)
+        
+        if student_match:
+            seat_no = student_match.group(1)
+            name = student_match.group(3).strip()
+            
+            marks = []
+            for j in range(i, min(i + 20, len(lines))):
+                cells = lines[j].split('|')
+                for cell in cells:
+                    mark = extract_marks_from_cell(cell)
+                    if mark is not None and len(marks) < num_subjects:
+                        marks.append(mark)
+                if len(marks) >= num_subjects:
+                    break
+            
+            if len(marks) >= num_subjects:
+                students.append({
+                    'seat_no': seat_no,
+                    'name': name,
+                    'marks': marks[:num_subjects]
+                })
+        
+        i += 1
+    
+    return students
+
+def calculate_percentages(students, total_marks_map):
+    """Calculate percentages - Returns only Name and Percentage"""
+    total_maximum_marks = sum(total_marks_map.values())
+    results = []
+    
+    for student in students:
+        name = student['name']
+        marks = student['marks']
+        total_obtained = sum(marks)
+        percentage = (total_obtained / total_maximum_marks) * 100
+        
+        results.append({
+            'Name': name,
+            'Percentage': round(percentage, 2)
+        })
+    
+    return results, total_maximum_marks
